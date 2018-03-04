@@ -5,9 +5,9 @@ pyramid_es - Elasticsearch Integration for Pyramid
     :target: http://travis-ci.org/storborg/pyramid_es
 .. image:: https://coveralls.io/repos/storborg/pyramid_es/badge.png?branch=master
     :target: https://coveralls.io/r/storborg/pyramid_es
-.. image:: https://pypip.in/v/pyramid_es/badge.png
+.. image:: https://img.shields.io/pypi/v/pyramid_es.svg
     :target: https://crate.io/packages/pyramid_es
-.. image:: https://pypip.in/d/pyramid_es/badge.png
+.. image:: https://img.shields.io/pypi/dm/pyramid_es.svg
     :target: https://crate.io/packages/pyramid_es
 
 Scott Torborg - `Cart Logic <http://www.cartlogic.com>`_
